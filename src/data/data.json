@@ -1,10 +1,10 @@
 {
     "Header": {
-        "title": "AboAI: IA para la Práctica Legal",
+        "title": "Abo.AI: IA para la Práctica Legal",
         "paragraph": "Optimiza tu flujo de trabajo con tecnología de vanguardia para el análisis y recuperación de información jurídica."
     },
     "About": {
-        "paragraph": "AboAI transforma la forma en que los abogados acceden y analizan información jurídica mediante inteligencia artificial avanzada. Nuestra plataforma permite la búsqueda y recuperación eficiente de documentos legales en cuestión de segundos, optimizando el tiempo de respuesta y reduciendo la carga operativa.",
+        "paragraph": "Abo.AI transforma la forma en que los abogados acceden y analizan información jurídica mediante inteligencia artificial avanzada. Nuestra plataforma permite la búsqueda y recuperación eficiente de documentos legales en cuestión de segundos, optimizando el tiempo de respuesta y reduciendo la carga operativa.",
         "Why": [
             "Automatización del análisis jurídico",
             "Acceso rápido a documentos legales",
@@ -50,17 +50,17 @@
     "Testimonials": [
         {
             "img": "https://images.vexels.com/media/users/3/142747/isolated/preview/dc7c44cd6c6a3949740fcf85ca6fba8c-logo-de-cuadrados-de-diamante.png",
-            "text": "\"AboAI ha optimizado nuestros procesos legales, reduciendo el tiempo de análisis y mejorando la precisión de nuestras decisiones.\"",
+            "text": "\"Abo.AI ha optimizado nuestros procesos legales, reduciendo el tiempo de análisis y mejorando la precisión de nuestras decisiones.\"",
             "name": "LegalTech Solutions"
         },
         {
             "img": "https://us.123rf.com/450wm/natbasil/natbasil1504/natbasil150400025/38859766-logotipo-cuadrado-de-color-s%C3%ADmbolo.jpg?ver=6",
-            "text": "\"Gracias a AboAI, hemos mejorado la eficiencia en la gestión documental, permitiendo a nuestro equipo centrarse en tareas estratégicas.\"",
+            "text": "\"Gracias a Abo.AI, hemos mejorado la eficiencia en la gestión documental, permitiendo a nuestro equipo centrarse en tareas estratégicas.\"",
             "name": "LexCorp Consulting"
         },
         {
             "img": "https://png.pngtree.com/template/20190717/ourmid/pngtree-letter-ll-square-logo-vector-design-template-element-image_230021.jpg",
-            "text": "\"AboAI ha transformado nuestra manera de trabajar, permitiéndonos ofrecer un servicio más ágil y preciso a nuestros clientes.\"",
+            "text": "\"Abo.AI ha transformado nuestra manera de trabajar, permitiéndonos ofrecer un servicio más ágil y preciso a nuestros clientes.\"",
             "name": "Jurídica Global"
         }
     ],
@@ -79,10 +79,10 @@
     "Contact": {
         "address": "Av. Reforma 123, Ciudad de México",
         "phone": "+52 55 1234 5678",
-        "email": "contacto@aboai.ai",
-        "facebook": "facebook.com/AboAI",
-        "twitter": "twitter.com/AboAI",
-        "linkedin": "linkedin.com/company/AboAI"
+        "email": "contacto@Abo.AI.ai",
+        "facebook": "facebook.com/Abo.AI",
+        "twitter": "twitter.com/Abo.AI",
+        "linkedin": "linkedin.com/company/Abo.AI"
     },
     "Features": [
         {

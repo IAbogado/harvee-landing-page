@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Logo from '../assets/logo.svg'
 
 export const Navigation = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -7,7 +8,6 @@ export const Navigation = () => {
         <nav id="menu" className="navbar navbar-default navbar-fixed-top">
             <div className="container">
                 <div className="navbar-header">
-                    {/* Botón de menú para móviles */}
                     <button
                         type="button"
                         className="navbar-toggle collapsed"
@@ -20,7 +20,7 @@ export const Navigation = () => {
                     </button>
 
                     <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Assessment_brain_icon.png"
+                        src={Logo}
                         alt="logo"
                         className="navbar-brand page-scroll logo"
                     />

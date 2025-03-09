@@ -1,1 +1,1 @@
-# AboAI - Landing page
+# Abo.AI - Landing page

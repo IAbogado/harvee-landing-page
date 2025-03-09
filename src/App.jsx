@@ -36,7 +36,7 @@ const App = () => {
             <div id="footer">
                 <div className="container text-center">
                     <p>
-                        &copy; 2025 AboAI. Todos los derechos reservados.
+                        &copy; 2025 Abo.AI. Todos los derechos reservados.
                     </p>
                 </div>
             </div>
